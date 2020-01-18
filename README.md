@@ -23,7 +23,7 @@ addi $s1 $0 7
 
 ## Running the tests
 
-to run any MIPS-32 instruction you need to follow these steps follow the steps descriped in the user manual file :
+to run any MIPS-32 instruction you need to follow these steps descriped in the user manual file :
 
 * [User Manual](https://github.com/Nada-Nasser/MIPS32-Simulator-/blob/master/MIPS32%20Simulator/User%20Manual.docx)- screenshots descripe all steps and details you need.
 
